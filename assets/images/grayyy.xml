@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grayyy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grayyy0000" x="10" y="10" width="178" height="305" frameX="-4" frameY="-10" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0001" x="10" y="10" width="178" height="305" frameX="-4" frameY="-10" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0002" x="198" y="10" width="183" height="302" frameX="-1" frameY="-13" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0003" x="391" y="10" width="183" height="302" frameX="-1" frameY="-13" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0004" x="584" y="10" width="183" height="308" frameX="0" frameY="-7" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0005" x="777" y="10" width="183" height="308" frameX="0" frameY="-7" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0006" x="970" y="10" width="178" height="314" frameX="-6" frameY="-1" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0007" x="970" y="10" width="178" height="314" frameX="-6" frameY="-1" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0008" x="1158" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0009" x="1346" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0010" x="1158" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0011" x="1158" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0012" x="1158" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+	<SubTexture name="grayyy0013" x="1346" y="10" width="178" height="315" frameX="-6" frameY="0" frameWidth="184" frameHeight="315"/>
+</TextureAtlas>

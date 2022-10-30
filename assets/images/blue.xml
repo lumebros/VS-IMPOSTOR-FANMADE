@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="399" height="574" pivotX="157.15" pivotY="194.45" frameX="0" frameY="-14" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0001" x="0" y="0" width="399" height="574" frameX="0" frameY="-14" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0002" x="399" y="0" width="397" height="588" frameX="-1" frameY="-1" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0003" x="399" y="0" width="397" height="588" frameX="-1" frameY="-1" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0004" x="796" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0005" x="796" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0006" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0007" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0008" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0009" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0010" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0011" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0012" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+	<SubTexture name="blue0013" x="1193" y="0" width="397" height="589" frameX="-1" frameY="0" frameWidth="399" frameHeight="589"/>
+</TextureAtlas>

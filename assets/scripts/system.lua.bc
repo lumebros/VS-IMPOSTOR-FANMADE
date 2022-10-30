@@ -1,0 +1,63 @@
+function onCreate()
+if not downscroll then
+makeLuaText("score", "Score:", ?, 500, 675)
+setTextSize('score', 20);
+addLuaText("score");
+setTextAlignment('score', 'left')
+
+makeLuaText("misses", "Misses:", ?, 700, 675)
+setTextSize('misses', 20);
+addLuaText("misses");
+setTextAlignment('misses', 'left')
+
+end
+if downscroll then
+makeLuaText("score", "Score:", ?, 500, 115)
+setTextSize('score', 20);
+addLuaText("score");
+setTextAlignment('score', 'left')
+
+makeLuaText("misses", "Misses:", ?, 700, 115)
+setTextSize('misses', 20);
+addLuaText("misses");
+setTextAlignment('misses', 'left')
+
+end
+
+if not downscroll and botPlay then
+makeLuaText("botplay", "BOTPLAY", 0, 560, 90)
+setTextSize('botplay', 35);
+addLuaText("botplay");
+setTextAlignment('botplay', 'left')
+
+end
+
+if downscroll and botPlay then
+makeLuaText("botplay", "BOTPLAY", 0, 560, 610)
+setTextSize('botplay', 35);
+addLuaText("botplay");
+setTextAlignment('botplay', 'left')
+
+end
+setProperty('scoreTxt.visible', false)
+end
+
+function onUpdatePost()
+if not botPlay then
+setProperty('botplay.visible', false)
+end
+if botPlay then
+setProperty('botplay.visible', true)
+end
+setProperty('botplayTxt.visible', false)
+setTextString("score", string.format('Score:%s', score))
+setTextString("misses", string.format('Misses:%s', misses))
+end
+
+function onUpdate()
+setProperty('cameraSpeed', 1.5)
+setProperty('timeTxt.visible', false)
+setProperty('timeBar.visible', false)
+setProperty('timeBarBG.visible', false)
+setProperty('scoreTxt.visible', false)
+end
